@@ -4,4 +4,5 @@
 **Python Version:** 3.9
 
 ## Leetcode
-Site of code challenges
+Site with code challenges<br>
+url: https://leetcode.com/problemset/all/
